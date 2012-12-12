@@ -86,7 +86,7 @@
     _startButton.hidden = NO;
     _activityView.hidden = YES;
     [_activityView stopAnimating];
-    NSLog(@"ok");
+   // NSLog(@"ok");
 }
 
 
