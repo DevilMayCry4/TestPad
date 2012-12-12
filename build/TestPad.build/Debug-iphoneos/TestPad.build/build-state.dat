@@ -1,0 +1,853 @@
+TTestPad
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Info.plist TestPad/TestPad-Info.plist
+cCpResource "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist" build/Debug-iphoneos/TestPad.app/ResourceRules.plist
+cProcessPCH /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.o /Users/user/Desktop/资料/TestPad/TestPad/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.o /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.o /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.o /Users/user/Desktop/资料/TestPad/AsyncSocket.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.o /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.o /Users/user/Desktop/资料/TestPad/ServerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.o /Users/user/Desktop/资料/TestPad/LocalIp.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.o /Users/user/Desktop/资料/TestPad/UDPManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.o /Users/user/Desktop/资料/TestPad/ClientViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.o /Users/user/Desktop/资料/TestPad/TestPad/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.o /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.o /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.o /Users/user/Desktop/资料/TestPad/AsyncSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.o /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad normal armv7
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.o /Users/user/Desktop/资料/TestPad/ServerViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.o /Users/user/Desktop/资料/TestPad/LocalIp.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.o /Users/user/Desktop/资料/TestPad/UDPManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.o /Users/user/Desktop/资料/TestPad/ClientViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad normal armv7s
+cCreateUniversalBinary /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad normal "armv7 armv7s"
+cGenerateDSYMFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app.dSYM /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad
+cCopyStringsFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/InfoPlist.strings TestPad/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default.png TestPad/Default.png
+cCopyPNGFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default@2x.png TestPad/Default@2x.png
+cCopyPNGFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default-568h@2x.png TestPad/Default-568h@2x.png
+cCompileXIB /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPhone.xib
+cCompileXIB /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPad.xib
+cProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision" /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision" /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/embedded.mobileprovision
+cTouch /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app
+cProcessProductPackaging "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist" /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent
+cCodeSign /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app
+
+N/Users/user/Desktop/资料/TestPad/AsyncSocket.m
+c0000000050B5699B000000000001A09C
+t1354066331
+s106652
+
+N/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m
+c000000004BF499DC00000000000102C8
+t1274321372
+s66248
+
+N/Users/user/Desktop/资料/TestPad/ClientViewController.m
+c0000000050C588A700000000000008A3
+t1355122855
+s2211
+
+N/Users/user/Desktop/资料/TestPad/LocalIp.m
+c0000000050C15D750000000000001B3C
+t1354849653
+s6972
+
+N/Users/user/Desktop/资料/TestPad/ServerViewController.m
+c0000000050C7FF4A0000000000000966
+t1355284298
+s2406
+
+N/Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m
+c0000000050C059D40000000000000AEC
+t1354783188
+s2796
+
+N/Users/user/Desktop/资料/TestPad/TestPad/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/user/Desktop/资料/TestPad/TestPad/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/user/Desktop/资料/TestPad/TestPad/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/user/Desktop/资料/TestPad/TestPad/TestPad-Prefix.pch
+c0000000050C05168000000000000013D
+t1354781032
+s317
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/user/Desktop/资料/TestPad/TestPad/ViewController.m
+c0000000050C5839D00000000000006DB
+t1355121565
+s1755
+
+N/Users/user/Desktop/资料/TestPad/TestPad/en.lproj/InfoPlist.strings
+c0000000050C05168000000000000002D
+t1354781032
+s45
+
+N/Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPad.xib
+c0000000050C051680000000000001489
+t1354781032
+s5257
+
+N/Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPhone.xib
+c0000000050C05563000000000000172C
+t1354782051
+s5932
+
+N/Users/user/Desktop/资料/TestPad/TestPad/main.m
+c0000000050C051680000000000000147
+t1354781032
+s327
+
+N/Users/user/Desktop/资料/TestPad/UDPManager.m
+c0000000050C587C000000000000018E9
+t1355122624
+s6377
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app.dSYM
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default.png
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default@2x.png
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Info.plist
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/PkgInfo
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/ResourceRules.plist
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/ViewController_iPad.nib
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/ViewController_iPhone.nib
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad.LinkFileList
+c0000000050C7FFF4000000000000043B
+t1355284468
+s1083
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad.LinkFileList
+c0000000050C7FFF40000000000000444
+t1355284468
+s1092
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.o
+t2
+s0
+
+N/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent
+t2
+s0
+
+N/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision
+c00000000508A2BD70000000000004F11
+t1351232471
+s20241
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+c00000000504A967B0000000000000094
+t1347065467
+s148
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+c00000000504A967B0000000000000096
+t1347065467
+s150
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000504A968800000000002C74D0
+t1347065480
+s2913488
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000504A968A0000000000322740
+t1347065482
+s3286848
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000504A968F0000000000629C80
+t1347065487
+s6462592
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000504A968F00000000000015F7
+t1347065487
+s5623
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000504A96960000000000000E8D
+t1347065494
+s3725
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000504A969700000000011BA850
+t1347065495
+s18589776
+
+N/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/Availability.h
+c00000000504A96AC0000000000001B54
+t1347065516
+s6996
+
+N/var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.pth
+t2
+s0
+
+NTestPad/TestPad-Info.plist
+c0000000050C0516800000000000005B5
+t1354781032
+s1461
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/AsyncSocket.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/ClientViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/LocalIp.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/ServerViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/TestPad/main.m
+r0
+
+CBuild AST from /Users/user/Desktop/资料/TestPad/UDPManager.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies20cf5a743778b641^849b7c743778b641^---0#1#0#--18"Check dependencies36"88CF07EF-4CF6-4DCC-9F67-C1549043588F-
+
+CCodeSign /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app
+s376977269.767515
+e376977269.986148
+r1
+xCodeSign
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"CodeSign build/Debug-iphoneos/TestPad.app698ac4753778b641^8674fc753778b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/build/Debug-iphoneos/TestPad.app/0000000000000000^765"CodeSign build/Debug-iphoneos/TestPad.app    cd /Users/user/Desktop/资料/TestPad    setenv CODESIGN_ALLOCATE "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate"    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 906eb37cb5a0cef2be80986d416adde5bd963dca --resource-rules=/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/ResourceRules.plist --entitlements /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app36"FF177011-A91D-47E8-9E44-EF8C01556FB1-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.o /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.892529
+e376977268.960933
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.o
+x/Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m7d95e4743778b641^6d00f6743778b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/AppDelegate.m0000000000000000^3274"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.o TestPad/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.dia -c /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AppDelegate.o36"8A5CDBE9-3BC1-4F62-8C49-070A43DD55EC-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.o /Users/user/Desktop/资料/TestPad/AsyncSocket.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.892546
+e376977269.128749
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.o
+x/Users/user/Desktop/资料/TestPad/AsyncSocket.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3477:70: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncSocket %p received unexpected CFSocketCallBackType %d.", self, type);
+o                                                                                         ~^          ~~~~
+o                                                                                         %ld
+o/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3508:90: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncSocket %p received unexpected CFReadStream callback, CFStreamEventType %d.", self, type);
+o                                                                                                             ~^          ~~~~
+o                                                                                                             %ld
+o/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3538:91: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncSocket %p received unexpected CFWriteStream callback, CFStreamEventType %d.", self, type);
+o                                                                                                              ~^          ~~~~
+o                                                                                                              %ld
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/user/Desktop/资料/TestPad/AsyncSocket.m9697e4743778b641^0c0421753778b641^-1576"/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3477:70: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncSocket %p received unexpected CFSocketCallBackType %d.", self, type);                                                                                         ~^          ~~~~                                                                                         %ld/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3508:90: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncSocket %p received unexpected CFReadStream callback, CFStreamEventType %d.", self, type);                                                                                                             ~^          ~~~~                                                                                                             %ld/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3538:91: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncSocket %p received unexpected CFWriteStream callback, CFStreamEventType %d.", self, type);                                                                                                              ~^          ~~~~                                                                                                              %ld3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#69#3476#69#102967#0#19"Format String Issue3(3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#80#3476#84#102978#0#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#68#3476#70#102966#2#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#68#3476#70#102966#2#-2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#89#3507#89#103791#0#19"Format String Issue3(3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#100#3507#104#103802#0#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#88#3507#90#103790#2#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#88#3507#90#103790#2#-2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#90#3537#90#104602#0#19"Format String Issue3(3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#101#3537#105#104613#0#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#89#3537#91#104601#2#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#89#3537#91#104601#2#-0#0#0#-19%DVTDocumentLocation4@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3258"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.o AsyncSocket.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.dia -c /Users/user/Desktop/资料/TestPad/AsyncSocket.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncSocket.o36"1AF6FB0B-BA42-4905-925C-38BD0BBDA93B-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.o /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.912487
+e376977269.079509
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.o
+x/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2154:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]
+o                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf
+o                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')
+o- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;
+o^
+o/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2188:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]
+o                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf
+o                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')
+o- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;
+o^
+o/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2324:73: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncUdpSocket %p received unexpected CFSocketCallBackType %d.", self, type);
+o                                                                                            ~^          ~~~~
+o                                                                                            %ld
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.mc0b3e9743778b641^956514753778b641^-2139"/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2154:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;^/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2188:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;^/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2324:73: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncUdpSocket %p received unexpected CFSocketCallBackType %d.", self, type);                                                                                            ~^          ~~~~                                                                                            %ld3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@73"Incompatible pointer types assigning to 'NSMutableData *' from 'NSData *'-376977269#18446744073709551615#0#1(2@125"Instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')-376977269#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@180"file://localhost/Xcode%204.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h0000000000000000^81#0#81#0#4098#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2153#33#2153#33#60808#0#14"Semantic Issue1(3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2153#35#2155#39#60810#114#-2@73"Incompatible pointer types assigning to 'NSMutableData *' from 'NSData *'-376977269#18446744073709551615#0#1(2@125"Instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')-376977269#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@180"file://localhost/Xcode%204.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h0000000000000000^81#0#81#0#4098#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2187#33#2187#33#61883#0#14"Semantic Issue1(3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2187#35#2189#39#61885#114#-2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#72#2323#72#65684#0#19"Format String Issue3(3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#83#2323#87#65695#0#3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#71#2323#73#65683#2#3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#71#2323#73#65683#2#-0#0#0#-19%DVTDocumentLocation4@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^3276"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.o AsyncUdpSocket.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.dia -c /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/AsyncUdpSocket.o36"835A0974-D01B-4EF5-AF5D-5513D1E8155D-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.o /Users/user/Desktop/资料/TestPad/ClientViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.030105
+e376977269.109550
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.o
+x/Users/user/Desktop/资料/TestPad/ClientViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/user/Desktop/资料/TestPad/ClientViewController.m3ecb07753778b641^0f0c1c753778b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/ClientViewController.m0000000000000000^3312"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.o ClientViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.dia -c /Users/user/Desktop/资料/TestPad/ClientViewController.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ClientViewController.o36"73195293-3026-443A-B00A-C6AEE15D88E7-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.o /Users/user/Desktop/资料/TestPad/LocalIp.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.962266
+e376977269.028233
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.o
+x/Users/user/Desktop/资料/TestPad/LocalIp.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/user/Desktop/资料/TestPad/LocalIp.m:381:34: warning: implicit declaration of function 'ether_ntoa' is invalid in C99 [-Wimplicit-function-declaration]
+o            strcpy(temp, (char *)ether_ntoa(LLADDR(sdl))); 
+o                                 ^
+o/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/secure/_string.h:88:36: note: expanded from macro 'strcpy'
+o   ? __builtin___strcpy_chk (dest, src, __darwin_obsz (dest))           \
+o                                   ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/user/Desktop/资料/TestPad/LocalIp.mfc72f6743778b641^e57a07753778b641^-557"/Users/user/Desktop/资料/TestPad/LocalIp.m:381:34: warning: implicit declaration of function 'ether_ntoa' is invalid in C99 [-Wimplicit-function-declaration]            strcpy(temp, (char *)ether_ntoa(LLADDR(sdl)));                                  ^/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/secure/_string.h:88:36: note: expanded from macro 'strcpy'   ? __builtin___strcpy_chk (dest, src, __darwin_obsz (dest))           \                                   ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@63"Implicit declaration of function 'ether_ntoa' is invalid in C99-376977269#18446744073709551615#0#1(2@28"Expanded from macro 'strcpy'-376977269#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@145"file://localhost/Xcode%204.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/secure/_string.h0000000000000000^87#35#87#35#2808#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@72"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/LocalIp.m0000000000000000^380#33#380#33#8#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@72"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/LocalIp.m0000000000000000^3234"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.o LocalIp.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.dia -c /Users/user/Desktop/资料/TestPad/LocalIp.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/LocalIp.o36"13D03C06-AA2F-4250-AA41-287798CBBF32-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.o /Users/user/Desktop/资料/TestPad/ServerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.947538
+e376977269.028927
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.o
+x/Users/user/Desktop/资料/TestPad/ServerViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/user/Desktop/资料/TestPad/ServerViewController.me2aef2743778b641^957d07753778b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/ServerViewController.m0000000000000000^3312"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.o ServerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.dia -c /Users/user/Desktop/资料/TestPad/ServerViewController.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ServerViewController.o36"19F62126-A6C0-4740-AEA6-3D8338C3FA06-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.o /Users/user/Desktop/资料/TestPad/UDPManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.029534
+e376977269.078110
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.o
+x/Users/user/Desktop/资料/TestPad/UDPManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/user/Desktop/资料/TestPad/UDPManager.m19a907753778b641^7aff13753778b641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/UDPManager.m0000000000000000^3252"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.o UDPManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.dia -c /Users/user/Desktop/资料/TestPad/UDPManager.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/UDPManager.o36"CE531C96-53F1-4667-B10F-CF3D620A234A-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.o /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.892543
+e376977268.945808
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.o
+x/Users/user/Desktop/资料/TestPad/TestPad/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m5397e4743778b641^5321f2743778b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/ViewController.m0000000000000000^3292"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.o TestPad/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.dia -c /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/ViewController.o36"83E7E527-8F75-4427-B80D-DC75D3DDC95C-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.o /Users/user/Desktop/资料/TestPad/TestPad/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.892512
+e376977268.911204
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.o
+x/Users/user/Desktop/资料/TestPad/TestPad/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/user/Desktop/资料/TestPad/TestPad/main.mc095e4743778b641^5245e9743778b641^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/main.m0000000000000000^3232"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.o TestPad/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.dia -c /Users/user/Desktop/资料/TestPad/TestPad/main.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/main.o36"7C42DB97-FC04-4641-AF19-E7DE4DA130D3-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.o /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.080787
+e376977269.136032
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m3fc614753778b641^55da22753778b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/AppDelegate.m0000000000000000^3281"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.o TestPad/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/user/Desktop/资料/TestPad/TestPad/AppDelegate.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AppDelegate.o36"8EA1A591-63C4-4482-86BA-34664C78EE0B-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.o /Users/user/Desktop/资料/TestPad/AsyncSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.110846
+e376977269.339096
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.o
+x/Users/user/Desktop/资料/TestPad/AsyncSocket.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3477:70: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncSocket %p received unexpected CFSocketCallBackType %d.", self, type);
+o                                                                                         ~^          ~~~~
+o                                                                                         %ld
+o/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3508:90: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncSocket %p received unexpected CFReadStream callback, CFStreamEventType %d.", self, type);
+o                                                                                                             ~^          ~~~~
+o                                                                                                             %ld
+o/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3538:91: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncSocket %p received unexpected CFWriteStream callback, CFStreamEventType %d.", self, type);
+o                                                                                                              ~^          ~~~~
+o                                                                                                              %ld
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/user/Desktop/资料/TestPad/AsyncSocket.m397e1c753778b641^04aa57753778b641^-1576"/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3477:70: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncSocket %p received unexpected CFSocketCallBackType %d.", self, type);                                                                                         ~^          ~~~~                                                                                         %ld/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3508:90: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncSocket %p received unexpected CFReadStream callback, CFStreamEventType %d.", self, type);                                                                                                             ~^          ~~~~                                                                                                             %ld/Users/user/Desktop/资料/TestPad/AsyncSocket.m:3538:91: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncSocket %p received unexpected CFWriteStream callback, CFStreamEventType %d.", self, type);                                                                                                              ~^          ~~~~                                                                                                              %ld3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#69#3476#69#102967#0#19"Format String Issue3(3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#80#3476#84#102978#0#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#68#3476#70#102966#2#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3476#68#3476#70#102966#2#-2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#89#3507#89#103791#0#19"Format String Issue3(3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#100#3507#104#103802#0#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#88#3507#90#103790#2#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3507#88#3507#90#103790#2#-2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#90#3537#90#104602#0#19"Format String Issue3(3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#101#3537#105#104613#0#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#89#3537#91#104601#2#3@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3537#89#3537#91#104601#2#-0#0#0#-19%DVTDocumentLocation4@76"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncSocket.m0000000000000000^3265"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.o AsyncSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.dia -c /Users/user/Desktop/资料/TestPad/AsyncSocket.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncSocket.o36"6410A275-E165-41E5-8775-FBB373C5C9D8-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.o /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.130927
+e376977269.308192
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.o
+x/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2154:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]
+o                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf
+o                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')
+o- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;
+o^
+o/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2188:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]
+o                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf
+o                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')
+o- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;
+o^
+o/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2324:73: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]
+o                        NSLog (@"AsyncUdpSocket %p received unexpected CFSocketCallBackType %d.", self, type);
+o                                                                                            ~^          ~~~~
+o                                                                                            %ld
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m66a121753778b641^36e54e753778b641^-2139"/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2154:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;^/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2188:34: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]                                                        theCurrentReceive->buffer = [[NSData alloc] initWithBytesNoCopy:buf                                                                                  ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h:82:1: note: instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')- (id)initWithBytesNoCopy:(void *)bytes length:(NSUInteger)length freeWhenDone:(BOOL)b;^/Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m:2324:73: warning: format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long') [-Wformat]                        NSLog (@"AsyncUdpSocket %p received unexpected CFSocketCallBackType %d.", self, type);                                                                                            ~^          ~~~~                                                                                            %ld3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@73"Incompatible pointer types assigning to 'NSMutableData *' from 'NSData *'-376977269#18446744073709551615#0#1(2@125"Instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')-376977269#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@180"file://localhost/Xcode%204.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h0000000000000000^81#0#81#0#4098#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2153#33#2153#33#60808#0#14"Semantic Issue1(3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2153#35#2155#39#60810#114#-2@73"Incompatible pointer types assigning to 'NSMutableData *' from 'NSData *'-376977269#18446744073709551615#0#1(2@125"Instance method 'initWithBytesNoCopy:length:freeWhenDone:' is assumed to return an instance of its receiver type ('NSData *')-376977269#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@180"file://localhost/Xcode%204.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h0000000000000000^81#0#81#0#4098#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2187#33#2187#33#61883#0#14"Semantic Issue1(3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2187#35#2189#39#61885#114#-2@91"Format specifies type 'int' but the argument has type 'CFOptionFlags' (aka 'unsigned long')-376977269#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#72#2323#72#65684#0#19"Format String Issue3(3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#83#2323#87#65695#0#3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#71#2323#73#65683#2#3@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^2323#71#2323#73#65683#2#-0#0#0#-19%DVTDocumentLocation4@79"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/AsyncUdpSocket.m0000000000000000^3283"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.o AsyncUdpSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.dia -c /Users/user/Desktop/资料/TestPad/AsyncUdpSocket.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/AsyncUdpSocket.o36"94118780-FCCD-47BB-984E-4D6CD1C582CA-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.o /Users/user/Desktop/资料/TestPad/ClientViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.235907
+e376977269.292608
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.o
+x/Users/user/Desktop/资料/TestPad/ClientViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/user/Desktop/资料/TestPad/ClientViewController.m9e7e3c753778b641^60e74a753778b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/ClientViewController.m0000000000000000^3319"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.o ClientViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.dia -c /Users/user/Desktop/资料/TestPad/ClientViewController.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ClientViewController.o36"9D019066-ACC5-402E-850B-876D50881D65-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.o /Users/user/Desktop/资料/TestPad/LocalIp.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.173542
+e376977269.234584
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.o
+x/Users/user/Desktop/资料/TestPad/LocalIp.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/user/Desktop/资料/TestPad/LocalIp.m:381:34: warning: implicit declaration of function 'ether_ntoa' is invalid in C99 [-Wimplicit-function-declaration]
+o            strcpy(temp, (char *)ether_ntoa(LLADDR(sdl))); 
+o                                 ^
+o/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/secure/_string.h:88:36: note: expanded from macro 'strcpy'
+o   ? __builtin___strcpy_chk (dest, src, __darwin_obsz (dest))           \
+o                                   ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/user/Desktop/资料/TestPad/LocalIp.m2b892c753778b641^cd1e3c753778b641^-557"/Users/user/Desktop/资料/TestPad/LocalIp.m:381:34: warning: implicit declaration of function 'ether_ntoa' is invalid in C99 [-Wimplicit-function-declaration]            strcpy(temp, (char *)ether_ntoa(LLADDR(sdl)));                                  ^/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/secure/_string.h:88:36: note: expanded from macro 'strcpy'   ? __builtin___strcpy_chk (dest, src, __darwin_obsz (dest))           \                                   ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@63"Implicit declaration of function 'ether_ntoa' is invalid in C99-376977269#18446744073709551615#0#1(2@28"Expanded from macro 'strcpy'-376977269#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@145"file://localhost/Xcode%204.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/secure/_string.h0000000000000000^87#35#87#35#2808#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@72"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/LocalIp.m0000000000000000^380#33#380#33#8#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@72"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/LocalIp.m0000000000000000^3241"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.o LocalIp.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.dia -c /Users/user/Desktop/资料/TestPad/LocalIp.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/LocalIp.o36"B2D15E6D-E7DB-4B94-8A87-5ED6E09D7B85-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.o /Users/user/Desktop/资料/TestPad/ServerViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.153197
+e376977269.223363
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.o
+x/Users/user/Desktop/资料/TestPad/ServerViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/user/Desktop/资料/TestPad/ServerViewController.m4b5827753778b641^db3139753778b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/ServerViewController.m0000000000000000^3319"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.o ServerViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.dia -c /Users/user/Desktop/资料/TestPad/ServerViewController.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ServerViewController.o36"2B209EBC-4866-424F-BEE3-7190FC1974D7-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.o /Users/user/Desktop/资料/TestPad/UDPManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.225029
+e376977269.262854
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.o
+x/Users/user/Desktop/资料/TestPad/UDPManager.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/user/Desktop/资料/TestPad/UDPManager.m80b639753778b641^8e5c43753778b641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/UDPManager.m0000000000000000^3259"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.o UDPManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.dia -c /Users/user/Desktop/资料/TestPad/UDPManager.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/UDPManager.o36"1A391229-A647-46A0-BAFD-5B103728E320-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.o /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.099075
+e376977269.151913
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.o
+x/Users/user/Desktop/资料/TestPad/TestPad/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m967719753778b641^6de426753778b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/ViewController.m0000000000000000^3299"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.o TestPad/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.dia -c /Users/user/Desktop/资料/TestPad/TestPad/ViewController.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/ViewController.o36"C48FA769-AFDF-472B-AAEC-BE62296E40AA-
+
+CCompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.o /Users/user/Desktop/资料/TestPad/TestPad/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977269.079323
+e376977269.097559
+r1
+xCompileC
+xbuild/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.o
+x/Users/user/Desktop/资料/TestPad/TestPad/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/user/Desktop/资料/TestPad/TestPad/main.mb66914753778b641^59fa18753778b641^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/main.m0000000000000000^3239"CompileC build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.o TestPad/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -include /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.dia -c /Users/user/Desktop/资料/TestPad/TestPad/main.m -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/main.o36"E83C17BA-081B-46CF-B56A-2DD51D67E8A7-
+
+CCompileXIB /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPad.xib
+s376977269.490571
+e376977269.663432
+r1
+xCompileXIB
+x/Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compiling /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPad.xib65a97d753778b641^33dfa9753778b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/en.lproj/ViewController_iPad.xib0000000000000000^835"CompileXIB TestPad/en.lproj/ViewController_iPad.xib    cd /Users/user/Desktop/资料/TestPad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH "/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin/.."    "/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/ViewController_iPad.nib /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPad.xib --sdk "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk"36"3894241F-DA8D-4B2A-9DD4-CDB68B9579B8-
+
+CCompileXIB /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPhone.xib
+s376977269.462948
+e376977269.489317
+r1
+xCompileXIB
+x/Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPhone.xibc99176753778b641^9d477d753778b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/en.lproj/ViewController_iPhone.xib0000000000000000^841"CompileXIB TestPad/en.lproj/ViewController_iPhone.xib    cd /Users/user/Desktop/资料/TestPad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH "/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin/.."    "/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/ViewController_iPhone.nib /Users/user/Desktop/资料/TestPad/TestPad/en.lproj/ViewController_iPhone.xib --sdk "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk"36"CA5501DC-D534-4699-B39B-AC9D735B6BEF-
+
+CCopyPNGFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default-568h@2x.png TestPad/Default-568h@2x.png
+s376977269.459231
+e376977269.552748
+r1
+xCopyPNGFile
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default-568h@2x.png
+xTestPad/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile build/Debug-iphoneos/TestPad.app/Default-568h@2x.png TestPad/Default-568h@2x.png629e75753778b641^59858d753778b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/Default-568h@2x.png0000000000000000^589"CopyPNGFile "build/Debug-iphoneos/TestPad.app/Default-568h@2x.png" "TestPad/Default-568h@2x.png"    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng" -compress "" "/Users/user/Desktop/资料/TestPad/TestPad/Default-568h@2x.png" "/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default-568h@2x.png"36"C702C9EF-3790-4B6B-81A0-0D3B69A6DE82-
+
+CCopyPNGFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default.png TestPad/Default.png
+s376977269.459219
+e376977269.495012
+r1
+xCopyPNGFile
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default.png
+xTestPad/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"CopyPNGFile build/Debug-iphoneos/TestPad.app/Default.png TestPad/Default.png249d75753778b641^9bc67e753778b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/Default.png0000000000000000^549"CopyPNGFile build/Debug-iphoneos/TestPad.app/Default.png TestPad/Default.png    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng" -compress "" /Users/user/Desktop/资料/TestPad/TestPad/Default.png /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default.png36"719070EA-0F9C-4D3D-9FF7-8849411C39AF-
+
+CCopyPNGFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default@2x.png TestPad/Default@2x.png
+s376977269.459221
+e376977269.552074
+r1
+xCopyPNGFile
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default@2x.png
+xTestPad/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile build/Debug-iphoneos/TestPad.app/Default@2x.png TestPad/Default@2x.png849e75753778b641^b0568d753778b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/Default@2x.png0000000000000000^569"CopyPNGFile "build/Debug-iphoneos/TestPad.app/Default@2x.png" "TestPad/Default@2x.png"    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng" -compress "" "/Users/user/Desktop/资料/TestPad/TestPad/Default@2x.png" "/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Default@2x.png"36"09892524-0F11-4BCF-843F-0B5029DED653-
+
+CCopyStringsFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/InfoPlist.strings TestPad/en.lproj/InfoPlist.strings
+s376977269.459035
+e376977269.461756
+r1
+xCopyStringsFile
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj/InfoPlist.strings
+xTestPad/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy TestPad/en.lproj/InfoPlist.strings759275753778b641^4c3676753778b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/en.lproj/InfoPlist.strings0000000000000000^540"CopyStringsFile build/Debug-iphoneos/TestPad.app/en.lproj/InfoPlist.strings TestPad/en.lproj/InfoPlist.strings    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/en.lproj -- TestPad/en.lproj/InfoPlist.strings36"75C94DDD-FCFF-4FF2-ADBB-9F7151FB9923-
+
+CCpResource "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist" build/Debug-iphoneos/TestPad.app/ResourceRules.plist
+s376977268.493692
+e376977268.497184
+r1
+xCpResource
+x/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/TestPad.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphoneos/TestPad.app/ResourceRules.plist8b717e743778b641^b6477f743778b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/build/Debug-iphoneos/TestPad.app/ResourceRules.plist000000000080d041^710"CpResource "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist" build/Debug-iphoneos/TestPad.app/ResourceRules.plist    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist" /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app36"C10D06F0-AD06-4195-8F54-5A019F812F47-
+
+CCreateUniversalBinary /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad normal "armv7 armv7s"
+s376977269.379331
+e376977269.399920
+r1
+xCreateUniversalBinary
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Create universal binary /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad2b2f61753778b641^bd7166753778b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/build/Debug-iphoneos/TestPad.app/TestPad000000000080d041^637"CreateUniversalBinary build/Debug-iphoneos/TestPad.app/TestPad normal "armv7 armv7s"    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    lipo -create /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad -output /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad36"4DE3D744-5FC8-48AD-A970-EE7FCFC8788A-
+
+CGenerateDSYMFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app.dSYM /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad
+s376977269.406674
+e376977269.451070
+r1
+xGenerateDSYMFile
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app.dSYM
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generating /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app.dSYMae2968753778b641^747973753778b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/build/Debug-iphoneos/TestPad.app.dSYM000000000080d041^571"GenerateDSYMFile build/Debug-iphoneos/TestPad.app.dSYM build/Debug-iphoneos/TestPad.app/TestPad    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/TestPad -o /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app.dSYM36"F376C14C-310E-41F9-ADEC-6DA288D9D450-
+
+CLd /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad normal armv7
+s376977269.137279
+e376977269.172413
+r1
+xLd
+x/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad083923753778b641^dd602c753778b641^---0#0#0#--1090"Ld build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad normal armv7    cd /Users/user/Desktop/资料/TestPad    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -arch armv7 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -L/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -filelist /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad.LinkFileList -dead_strip -fobjc-link-runtime -miphoneos-version-min=4.3 -framework CFNetwork -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7/TestPad36"2903DCA1-4C85-4EC3-8355-F3FBCD244F7C-
+
+CLd /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad normal armv7s
+s376977269.345641
+e376977269.372583
+r1
+xLd
+x/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPade78c58753778b641^bb615f753778b641^---0#0#0#--1095"Ld build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad normal armv7s    cd /Users/user/Desktop/资料/TestPad    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -arch armv7s -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -L/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos -filelist /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad.LinkFileList -dead_strip -fobjc-link-runtime -miphoneos-version-min=4.3 -framework CFNetwork -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/Objects-normal/armv7s/TestPad36"0D6B1A4C-E4B4-413B-BE29-D5AAEEE43EA8-
+
+CProcessInfoPlistFile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Info.plist TestPad/TestPad-Info.plist
+s376977268.493689
+e376977268.496992
+r1
+xProcessInfoPlistFile
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Info.plist
+xTestPad/TestPad-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process TestPad/TestPad-Info.plistf4707e743778b641^643b7f743778b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/TestPad-Info.plist0000000000000000^704"ProcessInfoPlistFile build/Debug-iphoneos/TestPad.app/Info.plist TestPad/TestPad-Info.plist    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestPad/TestPad-Info.plist -genpkginfo /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/ResourceRules.plist -o /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/Info.plist36"D9C57720-C98B-42ED-ADE8-8BF6E3F27930-
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/TestPad-hgrxqgrthxsrmxfsuauznsahcxha/Index/PrecompiledHeaders/TestPad-Prefix-bqbtfghgkarbdofkzwytwbzamizf_ast/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/TestPad-hgrxqgrthxsrmxfsuauznsahcxha/Index/PrecompiledHeaders/TestPad-Prefix-gzzaremnvoyvdoffhuqxtsiekmej_ast/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.504986
+e376977268.885718
+r1
+xProcessPCH
+x/var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.pth
+xTestPad/TestPad-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TestPad/TestPad-Prefix.pchd05e81743778b641^7bbee2743778b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/TestPad-Prefix.pch0000000000000000^3326"ProcessPCH /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7 -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos --serialize-diagnostics /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.dia -c /Users/user/Desktop/资料/TestPad/TestPad/TestPad-Prefix.pch -o /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-bevffiujyjbmswfwyosyxivfivhr/TestPad-Prefix.pch.d36"4CD343AF-17FA-471E-8286-B6077093706F-
+
+CProcessPCH /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376977268.504973
+e376977268.885769
+r1
+xProcessPCH
+x/var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.pth
+xTestPad/TestPad-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TestPad/TestPad-Prefix.pch7d5e81743778b641^1ec4e2743778b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/TestPad/TestPad-Prefix.pch0000000000000000^3329"ProcessPCH /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.pth TestPad/TestPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/资料/TestPad    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk" -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-generated-files.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-own-target-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-all-target-headers.hmap -iquote /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad-project-headers.hmap -I/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/include "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Xcode 4.5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources/armv7s -I/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/DerivedSources -F/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos --serialize-diagnostics /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.dia -c /Users/user/Desktop/资料/TestPad/TestPad/TestPad-Prefix.pch -o /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9w/35mnxyfs7mvch9zqvl7kwr280000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPad-Prefix-dtpaexlioalqbzexfyfbjlgbecfc/TestPad-Prefix.pch.d36"BB151B09-364F-4035-A97A-9DDF8213F635-
+
+CProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision" /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/embedded.mobileprovision
+s376977269.694229
+e376977269.697597
+r1
+xProcessProductPackaging
+x/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection191"ProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision" build/Debug-iphoneos/TestPad.app/embedded.mobileprovision14cbb1753778b641^baa0b2753778b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/build/Debug-iphoneos/TestPad.app/embedded.mobileprovision0000000000000000^658"ProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision" build/Debug-iphoneos/TestPad.app/embedded.mobileprovision    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/user/Library/MobileDevice/Provisioning Profiles/593C0886-7F29-4F29-8A00-3B9098098D22.mobileprovision" -o /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app/embedded.mobileprovision36"80C4022A-A2FD-4D76-B7FE-58BF7DD33363-
+
+CProcessProductPackaging "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist" /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent
+s376977269.726167
+e376977269.760247
+r1
+xProcessProductPackaging
+x/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+x/Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection206"ProcessProductPackaging "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist" build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent51f7b9753778b641^5a9fc2753778b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/user/Desktop/%E8%B5%84%E6%96%99/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent000000000080d041^714"ProcessProductPackaging "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist" build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist" -entitlements -format xml -o /Users/user/Desktop/资料/TestPad/build/TestPad.build/Debug-iphoneos/TestPad.build/TestPad.xcent36"41459430-2FF3-46C7-A0AF-9A5F4E481E37-
+
+CTouch /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app
+s376977269.707048
+e376977269.717501
+r1
+xTouch
+x/Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Touch /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app2c10b5753778b641^7cb9b7753778b641^---0#0#0#--353"Touch build/Debug-iphoneos/TestPad.app    cd /Users/user/Desktop/资料/TestPad    setenv PATH "/Xcode 4.5/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Xcode 4.5/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/user/Desktop/资料/TestPad/build/Debug-iphoneos/TestPad.app36"EB019EC4-3D16-40F3-94FE-D026A010B05B-
+
